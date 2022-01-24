@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Isabelli Batista",
+      "cpf": "44433377788",
+      "email": "isabellibatista@gmail.com",
+      "whatsapp": 11999999999,
+      "address": {
+        "postalcode": "04939120",
+        "street": "Rua Bento Rodrigues",
+        "number": 177,
+        "details": "ao lado da pizzaria",
+        "district": "Jardim Tupi",
+        "city": "São Paulo/SP"
+      },
+      "deliver_method": "Moto",
+      "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Caio Mariano",
+        "cpf": "444333777AA",
+        "email": "caiomariano@gmail.com",
+        "whatsapp": 11999999999,
+        "address": {
+          "postalcode": "04939120",
+          "street": "Rua Bento Rodrigues",
+          "number": 177,
+          "details": "ao lado da pizzaria",
+          "district": "Jardim Tupi",
+          "city": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Camila Teste",
+        "cpf": "44433377788",
+        "email": "cami.com.br",
+        "whatsapp": 11999999999,
+        "address": {
+          "postalcode": "04939120",
+          "street": "Rua Bento Rodrigues",
+          "number": 177,
+          "details": "ao lado da pizzaria",
+          "district": "Jardim Tupi",
+          "city": "São Paulo/SP"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
